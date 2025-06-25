@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=donnienuma)](https://github.com/donnienuma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=donnienuma&theme=onestar&no-frame=false&no-bg=false&margin-w=4&exclude=Star,Review,Issue,Stars,Reviews,Issues)](https://github.com/donnienuma/github-profile-trophy)
